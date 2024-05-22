@@ -7,3 +7,8 @@ This repository houses the code and resources for analyzing and exploring weathe
 # Analyzing and Exploring Data
 The data analysis and exploration are performed using Python programming language. I utilize various Python libraries and tools to gain insights, visualize patterns, build predictive models and compare which one is more useful to predict the precipitation. 
 
+
+# Features:
+🗺️ Geospatial Analysis
+
+💡 Predictive Model
